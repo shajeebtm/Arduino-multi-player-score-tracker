@@ -31,8 +31,11 @@ Multi Player Score Tracker (MPST)  explained here has the features to support al
 
 ### Schematic diagram
 
+
 ![Schematic Diagram](Images/Multi_Player_Point_Tracker_schem.jpg)
 
+
 ### Wiring  diagram
+
 
 ![Schematic Diagram](Images/Multi_Player_Point_Tracker_bb.jpg)
