@@ -1,2 +1,3 @@
 # Arduino-multi-player-score-tracker
-Single device for tracking multiple player's or team's score for activities which span across days
+Device for tracking multiple player's or team's score for games and activities.
+![Main Image](images/Main_Image.png)
