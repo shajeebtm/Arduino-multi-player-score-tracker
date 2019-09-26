@@ -52,9 +52,9 @@ System can be operated and controlled  in 3 different modes with the help of 3 p
 - View score mode  - This is the default mode, in this mode score of every player can be reviewed by just pressing ‘score up’ or ‘score down’ buttons. With every press of ‘up’ or ‘down’ buttons  system cycles through score of each player.
 - Update score mode - This mode  is for score update operation. Just press ‘player’ button to enter into this mode. With every push of ‘player’ button system cycle through each player’s score update mode. ‘Up’ and ‘down’ buttons  are used for incrementing and decrementing score by the configured step value . To exit from this mode press and hold ‘player’ button for 2 secs.
 - Config mode - Press and hold both ‘score up’ and ‘score down’ simultaneously  for 2 seconds to enter into this mode (make sure the first button to press is ‘score up’ followed by ‘score down’). There are 3 different configurable parameters, with every push of ‘player’ button  system cycle through following  3 configurable parameters.
-Number of players : This is the default option in config mode. Use ‘score up’ and ‘score down’ buttons to increment and decrement player count.
-Reset score ? : This is for resetting every players score to zero. Use ‘score up’ and ‘score down’ button to answer ‘YES’ or ‘NO’ to this question.
-Score step : This is for setting incremental / decremental step for score while updating score. Minimum is 1 and it can be set to any integer number. Use ‘score up’ and ‘score down’ buttons to choose the number needed.
+-- Number of players : This is the default option in config mode. Use ‘score up’ and ‘score down’ buttons to increment and decrement player count.
+-- Reset score ? : This is for resetting every players score to zero. Use ‘score up’ and ‘score down’ button to answer ‘YES’ or ‘NO’ to this question.
+-- Score step : This is for setting incremental / decremental step for score while updating score. Minimum is 1 and it can be set to any integer number. Use ‘score up’ and ‘score down’ buttons to choose the number needed.
 In order to exit from config mode press and hold ‘player’ button for 2 secs.
 
 
