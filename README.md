@@ -27,4 +27,4 @@ Multi Player Score Tracker (MPST)  explained here has the features to support al
 7. 200  ohm resistor - 1 no
 8. 10 kilo ohms adjustable resistor - 1 no
 9. 5 volt power supply (usb supply will do)
-10. 9v battery - 1no (if you want the unit to be powered by battery)
+10. 9v battery - 1no (if you would like the unit to be powered by battery)
