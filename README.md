@@ -62,5 +62,8 @@ There is a 10ms timer configured with the help of MsTimer2 library.  Purpose of 
 
 
 ### Prototype photos
+Outside view of the assembled unit.
 ![Phototye Image1](Images/Complete_unit_1.jpg)
+
+Inside view of the assembled unit.
 ![Phototye Image2](Images/Complete_unit_2.jpg)
