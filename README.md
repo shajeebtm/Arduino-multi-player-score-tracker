@@ -42,4 +42,4 @@ Multi Player Score Tracker (MPST)  explained here has the features to support al
 
 ### Program flow chart
 
-![Schematic Diagram](Images/MPST flow chart.jpg)
+![Schematic Diagram](Images/MPST_flow_chart.jpg)
