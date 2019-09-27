@@ -67,11 +67,12 @@ Code is available here [here](Code/Multi_Player_Score_Tracker.ino)
 Outside view of the assembled unit.
 
 <p align="center">
-<img src="https://github.com/shajeebtm/Arduino-multi-player-score-tracker/blob/master/Images/Complete_unit_1_small.jpg">
+<img width="700" height="800" src="https://github.com/shajeebtm/Arduino-multi-player-score-tracker/blob/master/Images/Complete_unit_1_small.jpg">
 </p>
 
+<P></p>
 Inside view of the assembled unit.
 
 <p align="center">
-<img src="https://github.com/shajeebtm/Arduino-multi-player-score-tracker/blob/master/Images/Complete_unit_2_small.jpg">
+<img width="700" height="800" src="https://github.com/shajeebtm/Arduino-multi-player-score-tracker/blob/master/Images/Complete_unit_2_small.jpg">
 </p>
