@@ -60,6 +60,8 @@ In order to exit from config mode press and hold ‘player’ button for 2 secs.
 
 There is a 10ms timer configured with the help of MsTimer2 library.  Purpose of the timer function powerLossDetector() is to monitor the voltage level at A3 input and to keep C2 charged at a steady level. During power failure A3 input will show higher voltage level which will trigger EEPROM write operation to save all scores. High value capacitor C1 is a must for powering Arduino unit while writing data into EEPROM. 
 
+### Code
+Code is available here [here](Code/Multi_Player_Score_Tracker.ino)
 
 ### Prototype photos
 Outside view of the assembled unit.
