@@ -66,7 +66,9 @@ Code is available here [here](Code/Multi_Player_Score_Tracker.ino)
 ### Prototype photos
 Outside view of the assembled unit.
 
+<p align="center">
 ![Phototye Image1](Images/Complete_unit_1_small.jpg)
+</p>
 
 Inside view of the assembled unit.
 
