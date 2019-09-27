@@ -68,4 +68,4 @@ Outside view of the assembled unit.
 ![Phototye Image1](Images/Complete_unit_1_small.jpg)
 
 Inside view of the assembled unit.
-![Phototye Image2](Images/Complete_unit_2.jpg)
+![Phototye Image2](Images/Complete_unit_2_small.jpg)
