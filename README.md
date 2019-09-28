@@ -13,6 +13,7 @@ Assume you are part of a game or activity with following requirements
 
 Multi Player Score Tracker (MPST)  explained here has the features to support all of the requirements listed above.
 
+This unit can be a gift to kids for their daily game and competitions.
 
 
 ### Components required
