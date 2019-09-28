@@ -27,8 +27,9 @@ This unit can be a gift to kids for their daily game and competitions.
 6. 10 kilo ohm resistor - 1 no
 7. 200  ohm resistor - 1 no
 8. 10 kilo ohms adjustable resistor - 1 no
-9. 5 volt power supply (usb supply will do)
-10. 9v battery - 1no (if you would like the unit to be powered by battery)
+9. Slide switch - 1 no
+10. 5 volt power supply (usb supply will do)
+11. 9v battery - 1no (if you would like the unit to be powered by battery)
 
 ### Schematic diagram
 
