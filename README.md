@@ -78,3 +78,6 @@ Inside view of the assembled unit.
 <p align="center">
 <img width="700" height="800" src="https://github.com/shajeebtm/Arduino-multi-player-score-tracker/blob/master/Images/Complete_unit_2_small.jpg">
 </p>
+
+### Additional details
+More details of this project are available at [arduino project hub](https://create.arduino.cc/projecthub/Shajeeb/multi-player-score-tracker-0e3160)
